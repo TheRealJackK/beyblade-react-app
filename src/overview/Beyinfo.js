@@ -1,15 +1,16 @@
 import React from "react";
-import mfuryBeyblades from "../objects/Metalfury";
+import { beyblades } from "../beyblades";
 import 'bootstrap/dist/css/bootstrap.css';
 
-function MetalFury() {
-    return(
-        mfuryBeyblades.map(beyblade => (
+function beyInfo() {
+    return (
+        beyblades.map(beyblade => (
             <>
-            <div class="card m-3 shadow">
-                <img class="card-img-top" src={beyblade.image} alt="Beyblade"></img>
+            <div id = "bb-card" class="card m-3 shadow">
                 <div class="card-body">
+                <img class="card-img-top" src={beyblade.image} alt={beyblade.name}></img>
                     <h5 class="card-title">{beyblade.name}</h5>
+                    <p class="card-text">Series: {beyblade.series}</p>
                     <p class="card-text">Type: {beyblade.type}</p>
                     <p class="card-text">Facebold: {beyblade.faceBolt}</p>
                     <p class="card-text">Energy Ring: {beyblade.energyRing}</p>
@@ -23,4 +24,4 @@ function MetalFury() {
     )
 }
 
-export default MetalFury;
+export default beyInfo;
