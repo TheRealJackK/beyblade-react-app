@@ -1,0 +1,44 @@
+body {
+    background-color: #f2f2f2;
+    font-family: 'Orbitron', sans-serif;
+}
+
+h1 {
+    margin: 1em;
+    font-weight: bolder;
+}
+
+#d-bb-card {
+    width: auto;
+    cursor: pointer;
+    align-items: center;
+}
+
+#d-bb-card > img {
+    max-width: 400px;
+}
+
+#bb-card {
+    width: 17%;
+    transition: 500ms;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#bb-card:hover {
+    transform: scale(1.03, 1.03);
+}
+
+#bb-card:hover a {
+    color: black;
+}
+
+@media screen and (max-width: 600px) {
+    #bb-card {
+        width:auto;
+    }
+}

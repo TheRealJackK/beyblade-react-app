@@ -1,5 +1,6 @@
 # Beyblade React App
 
-1. git clone
-2. npm install
-3. npm start
+1. Open Git Bash terminal
+2. git clone https://github.com/TheRealJackK/beyblade-react-app
+3. npm install
+4. npm start
