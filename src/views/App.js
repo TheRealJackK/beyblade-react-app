@@ -6,7 +6,7 @@ import DetailView from "./Detailedview";
 import "../css/custom.css";
 import 'bootstrap/dist/css/bootstrap.css';
 
-function App() {
+const App = () => {
   return (
     <>
     <Router>

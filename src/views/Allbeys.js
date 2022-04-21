@@ -3,7 +3,7 @@ import { beyblades } from "../data/beyblades";
 import { Link } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.css';
 
-function Allbeys() {
+const Allbeys = () => {
     console.log(beyblades)
     return (
         <>

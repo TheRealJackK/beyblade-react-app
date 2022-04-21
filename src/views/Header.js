@@ -2,7 +2,7 @@ import React from "react";
 import {Link} from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.css';
 
-function Header() {
+const Header = () => {
     return (
         <>
         <nav className="navbar bg-white shadow-sm d-flex justify-content-center flex-column">
