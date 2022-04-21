@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/beyblade-react-app/static/css/main.1b3de96f.css",
-    "main.js": "/beyblade-react-app/static/js/main.549b78df.js",
+    "main.css": "/beyblade-react-app/static/css/main.d1ce8c8a.css",
+    "main.js": "/beyblade-react-app/static/js/main.a17e9ae8.js",
     "static/media/flamesagittario-takara.png": "/beyblade-react-app/static/media/flamesagittario-takara.6266e5d4e277e03a903e.png",
     "static/media/gravitydestroyer-takara.png": "/beyblade-react-app/static/media/gravitydestroyer-takara.4460eaecbc2979b4b891.png",
     "static/media/fangleone-takara.png": "/beyblade-react-app/static/media/fangleone-takara.47236a14df06bc355d32.png",
@@ -18,11 +18,11 @@
     "static/media/eartheagle-takara.png": "/beyblade-react-app/static/media/eartheagle-takara.d9800c176285e37b4840.png",
     "static/media/flashsagittario-takara.png": "/beyblade-react-app/static/media/flashsagittario-takara.469b4f70c013ef61031e.png",
     "index.html": "/beyblade-react-app/index.html",
-    "main.1b3de96f.css.map": "/beyblade-react-app/static/css/main.1b3de96f.css.map",
-    "main.549b78df.js.map": "/beyblade-react-app/static/js/main.549b78df.js.map"
+    "main.d1ce8c8a.css.map": "/beyblade-react-app/static/css/main.d1ce8c8a.css.map",
+    "main.a17e9ae8.js.map": "/beyblade-react-app/static/js/main.a17e9ae8.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b3de96f.css",
-    "static/js/main.549b78df.js"
+    "static/css/main.d1ce8c8a.css",
+    "static/js/main.a17e9ae8.js"
   ]
 }
