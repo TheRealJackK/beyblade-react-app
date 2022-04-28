@@ -11,7 +11,7 @@ const DetailView = () => {
             <h2>Metal Series BeyBlades</h2>
          </div>
          <div className = "card-group flex-wrap">
-            {beyblades.filter(beyblade => beyblade.id == id).map((beyblade) => (
+            {beyblades.filter(beyblade => Number(beyblade.id) === Number(id)).map((beyblade) => (
             <div key={beyblade.id} id="d-bb-card" className="card-body bg-white m-3 shadow rounded d-flex flex-column">
             <img className="card-img-top" src={beyblade.image} alt={beyblade.name}></img>
                   <h4 className="card-title mt-5"><strong>{beyblade.name}</strong></h4>
