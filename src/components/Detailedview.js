@@ -1,6 +1,5 @@
 import React from "react";
 import { beyblades } from "../data/beyblades";
-import 'bootstrap/dist/css/bootstrap.css';
 import { useParams } from "react-router-dom";
 
 const DetailView = () => {

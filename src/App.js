@@ -1,10 +1,10 @@
 import React from "react";
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
-import Header from "./Header";
-import Allbeys from "./Allbeys";
-import DetailView from "./Detailedview";
-import "../css/custom.css";
+import Header from "./components/Header";
+import Allbeys from "./components/Allbeys";
+import DetailView from "./components/Detailedview";
 import 'bootstrap/dist/css/bootstrap.css';
+import "./css/custom.css";
 
 const App = () => {
   return (
