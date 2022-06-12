@@ -1,7 +1,7 @@
 import React from "react";
 import {Link} from 'react-router-dom';
 
-const Header = () => {
+export default function Header() {
     return (
         <>
         <nav className="navbar bg-white shadow-sm d-flex justify-content-center flex-column">
@@ -14,5 +14,3 @@ const Header = () => {
         </>
     )
 }
-
-export default Header;

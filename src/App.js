@@ -6,7 +6,7 @@ import DetailView from "./components/Detailedview";
 import 'bootstrap/dist/css/bootstrap.css';
 import "./css/custom.css";
 
-const App = () => {
+export default function App(){
   return (
     <>
     <Router>
@@ -27,5 +27,3 @@ const App = () => {
     </>
   )
 }
-
-export default App;

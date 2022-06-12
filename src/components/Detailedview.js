@@ -2,7 +2,7 @@ import React from "react";
 import { beyblades } from "../data/beyblades";
 import { useParams } from "react-router-dom";
 
-const DetailView = () => {
+export default function Detailedview() {
    const { id } = useParams()
    return (
         <>
@@ -31,5 +31,3 @@ const DetailView = () => {
         </>
    ) 
 }
-
-export default DetailView;
