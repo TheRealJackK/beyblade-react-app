@@ -1,28 +1,14 @@
 {
   "files": {
     "main.css": "/beyblade-react-app/static/css/main.d1ce8c8a.css",
-    "main.js": "/beyblade-react-app/static/js/main.d3b48287.js",
-    "static/media/flamesagittario-takara.png": "/beyblade-react-app/static/media/flamesagittario-takara.6266e5d4e277e03a903e.png",
-    "static/media/gravitydestroyer-takara.png": "/beyblade-react-app/static/media/gravitydestroyer-takara.4460eaecbc2979b4b891.png",
-    "static/media/fangleone-takara.png": "/beyblade-react-app/static/media/fangleone-takara.47236a14df06bc355d32.png",
-    "static/media/twistedtempo-takara.png": "/beyblade-react-app/static/media/twistedtempo-takara.9185023f8e48ca96e273.png",
-    "static/media/raystriker-takara.png": "/beyblade-react-app/static/media/raystriker-takara.1f59796af47d7d671532.png",
-    "static/media/galaxypegasus-takara.png": "/beyblade-react-app/static/media/galaxypegasus-takara.5cb27dedbadcc707eaf5.png",
-    "static/media/lightningldrago-takara.png": "/beyblade-react-app/static/media/lightningldrago-takara.2ea1a83867e14fd46b9d.png",
-    "static/media/diablonemesis-takara.png": "/beyblade-react-app/static/media/diablonemesis-takara.aa37846b724e05327ffd.png",
-    "static/media/ldragodestructor-takara.png": "/beyblade-react-app/static/media/ldragodestructor-takara.92476901d5ceaa86ad36.png",
-    "static/media/rockleone-takara.png": "/beyblade-react-app/static/media/rockleone-takara.165761328fd6bab1a524.png",
-    "static/media/stormpegasus-takara.png": "/beyblade-react-app/static/media/stormpegasus-takara.21c92f536b29c9f78723.png",
-    "static/media/meteoldrago-takara.png": "/beyblade-react-app/static/media/meteoldrago-takara.cb11b8407b9d14e73cdc.png",
-    "static/media/cosmicpegasus-takara.png": "/beyblade-react-app/static/media/cosmicpegasus-takara.b287cae1704d41af45a9.png",
-    "static/media/eartheagle-takara.png": "/beyblade-react-app/static/media/eartheagle-takara.d9800c176285e37b4840.png",
-    "static/media/flashsagittario-takara.png": "/beyblade-react-app/static/media/flashsagittario-takara.469b4f70c013ef61031e.png",
+    "main.js": "/beyblade-react-app/static/js/main.4bb16b10.js",
+    "service-worker.js": "/beyblade-react-app/service-worker.js",
     "index.html": "/beyblade-react-app/index.html",
     "main.d1ce8c8a.css.map": "/beyblade-react-app/static/css/main.d1ce8c8a.css.map",
-    "main.d3b48287.js.map": "/beyblade-react-app/static/js/main.d3b48287.js.map"
+    "main.4bb16b10.js.map": "/beyblade-react-app/static/js/main.4bb16b10.js.map"
   },
   "entrypoints": [
     "static/css/main.d1ce8c8a.css",
-    "static/js/main.d3b48287.js"
+    "static/js/main.4bb16b10.js"
   ]
 }
